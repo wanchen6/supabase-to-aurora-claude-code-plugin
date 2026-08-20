@@ -1,0 +1,12 @@
+{
+  "name": "supabase-to-aurora-local",
+  "owner": {
+    "name": "local"
+  },
+  "plugins": [
+    {
+      "name": "supabase-to-aurora",
+      "source": "."
+    }
+  ]
+}
